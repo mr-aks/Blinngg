@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bling</string>
+    <string name="meet_new_friends">meet new friends</string>
+    <string name="bling">BLING</string>
+    <string name="login">login</string>
+    <string name="register">Register</string>
+    <string name="enter">Enter</string>
+    <string name="logout">Logout</string>
+    <string name="email_address">Email Adress</string>
+    <string name="password">Password</string>
+    <string name="textview">TextView</string>
+    <string name="last_message">Last message</string>
+</resources>

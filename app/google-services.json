@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "819358191669",
+    "firebase_url": "https://bling-aeb43.firebaseio.com",
+    "project_id": "bling-aeb43",
+    "storage_bucket": "bling-aeb43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819358191669:android:0837927b78c8a611f6e17c",
+        "android_client_info": {
+          "package_name": "com.hitts.bling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819358191669-g09o81inmqa2sp43rulao8e5s4g51tjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFdzti5nBCsG2B5TOse13GIVcTTUi6-Dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819358191669-g09o81inmqa2sp43rulao8e5s4g51tjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
